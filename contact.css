@@ -1,0 +1,50 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5e5858;
+}
+
+.nav-links{
+/* padding: 20px; */
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.home{
+  margin: 15px;
+}
+
+.about{
+  margin:10px;
+}
+
+.contact{
+  margin: 20px;
+}
+
+p{
+    color: white;
+    background:rgb(75, 66, 66);
+    padding: 10px;
+    margin: 10px;
+    border-radius:8px;
+    font-size:18px;
+    font-weight: bold;
+    display: block;
+    opacity: 1;
+}
+
+h1,h2{
+    
+    color: white;
+    background:rgb(75, 66, 66);
+    padding: 10px;
+    margin: 10px;
+    border-radius:8px;
+    font-size:18px;
+    font-weight: bold;
+    display: block;
+    opacity: 1;
+}

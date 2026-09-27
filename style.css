@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif
+}
+
+.nav-links{
+/* padding: 20px; */
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+h1,h3{
+    color:white;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+p{
+text-align: start;
+text-shadow: 2px 2px 2px white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',;
+}
+
+.home{
+  margin: 15px;
+}
+
+.about{
+  margin:10px;
+}
+
+.contact{
+  margin: 20px;
+}
+
+
+
+.hero{
+    height: 100vh;
+    background-image: url('p.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5e5858;
+}
+
